@@ -4,6 +4,7 @@
 ----
 
 [![HitCount](http://hits.dwyl.com/Alex-Goaga/Access-Denied.svg)](http://hits.dwyl.com/Alex-Goaga/Access-Denied)
+<img src="https://img.shields.io/github/repo-size/Alex-Goaga/Access-Denied?label=Repo%20Size&color=orange" alt="repo size" >
 
 ----
 **Take Note!**

@@ -97,3 +97,6 @@ This program is free software: you can redistribute it and/or modify
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+### Disclaimer
+This project is in no way affiliated with the core Pi-Hole project or organization neither with Synology Systems. This project was created as a contribution to the community. Use at your own risk.

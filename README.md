@@ -10,7 +10,7 @@
 ----
 
 **Take Note!**
-
+* This is a work in progress and is being actively developed (for now).
 * This project gathers all banned IPs from different server logs and honey pots around the plain and compress them into one compatible file for any <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project or <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/synology-logo.png" alt="Pi-hole" height="24"/>  Synology DSM - Auto Block Feature
 * Versions the file, and tests, are updated every week 
 * Yes, any user can contribute with his honey pot list. ( *With any exception of issues regarding changes to `Access-Denied/main/deny-ip-list.txt`, all other issues regarding the content of the produced hosts files should be made with the appropriate data source that contributed the content in question. The contact information for all of the data sources can be found in the `Contributors` sections.* )
@@ -83,6 +83,19 @@ editor.
 
 ### Helpful links
 * https://pi-hole.net - A great network-wide ad blocker project.
+
+### TODO
+- [X] Setup multiple machines around the network
+- [X] Give the machines juicy names 
+- [X] Open and redirect ports to public network
+- [ ] Add cron script to run from cron daily/weekly/monthly
+- [ ] Add additional lists to combine into one mega list
+- [ ] Add installation script for automated install to PiHole
+- [ ] Possibly generizie script to accept any list
+- [ ] Add instructions to host the list on the pi-host itself
+- [ ] Reach 10,000-caught milestone
+- [ ] Reach 100,000-caught milestone
+- [ ] Reach 1,000,000-caught milestone
 
 
 ## License

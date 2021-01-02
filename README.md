@@ -20,23 +20,6 @@
 
 * **Alex-Goaga** - *Initial work* - (https://github.com/Alex-Goaga)
 
-## License
-
-This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-
-
 ## What is a hosts file?
 
 A hosts file, named `hosts` (with no file extension), is a plain-text file
@@ -84,3 +67,21 @@ editor.
 
 **Windows**: `%SystemRoot%\system32\drivers\etc\hosts` file.
 
+## Please note that :
+
+*  Adding to many entries in the host file ( For example Windows C:\Windows\System32\drivers\etc\hosts ) in order to block intrusions you can end as a result, on startup, with an initial super-slow connection to the internet. I get the globe icon (no connection) for about 2 minutes on some tests in the Virtual Machine, then it works fine so WE DO RECOMMEND buying a separate machine for the computing DNS process such as a cheap Raspberry Pi 0 (zero)
+
+## License
+
+This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.

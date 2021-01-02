@@ -2,6 +2,10 @@
 
 # Project !Access - Denied
 ----
+
+[![HitCount](http://hits.dwyl.com/Alex-Goaga/Access-Denied.svg)](http://hits.dwyl.com/Alex-Goaga/Access-Denied)
+
+----
 **Take Note!**
 
 * This project gathers all banned IPs from different server logs and honey pots around the plain and compress them into one compatible file for any PiHole Project or Synology Auto Block Feature

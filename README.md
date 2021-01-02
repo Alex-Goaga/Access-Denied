@@ -10,7 +10,9 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Alex-Goaga/Access-Denied">
   <img src="https://img.shields.io/github/license/Alex-Goaga/Access-Denied">
 </div>
+
 ----
+
 **Take Note!**
 
 * This project gathers all banned IPs from different server logs and honey pots around the plain and compress them into one compatible file for any <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project or Synology Auto Block Feature

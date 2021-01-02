@@ -16,7 +16,7 @@
 * Yes, any user can contribute with his honey pot list. ( *With any exception of issues regarding changes to `Access-Denied/main/deny-ip-list.txt`, all other issues regarding the content of the produced hosts files should be made with the appropriate data source that contributed the content in question. The contact information for all of the data sources can be found in the `Contributors` sections.* )
 ----
 
-# 🖥️ Unified hosts file additional informations:
+# 📰 Unified hosts file additional informations:
 
 * Last updated: **January 02 2021**.
 * Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/deny-ip-list.txt) containing 0,007 entries.
@@ -75,7 +75,7 @@ editor.
 **Windows**: `%SystemRoot%\system32\drivers\etc\hosts` file.
 
 ## 🐌 Limitations :
-*  Adding to many entries in the host file ( For example Windows C:\Windows\System32\drivers\etc\hosts ) in order to block intrusions you can end as a result, on startup, with an initial super-slow connection to the internet. I get the globe icon (no connection) for about 2 minutes on some tests in the Virtual Machine, then it works fine so WE DO RECOMMEND buying a separate machine for the computing DNS process such as a cheap Raspberry Pi 0 (zero) and setup the <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project 
+*  Adding to many entries in the host file ( For example Windows C:\Windows\System32\drivers\etc\hosts ) in order to block intrusions you can end as a result, on startup, with an initial super-slow connection to the internet. ⚠️ I get the globe icon (no connection) for about 2 minutes on some tests in the Virtual Machine, then it works fine so WE DO RECOMMEND buying a separate machine for the computing DNS process such as a cheap Raspberry Pi 0 (zero) and setup the <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project 
 
 
 ## 📜 Other

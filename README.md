@@ -2,9 +2,15 @@
 
 # Project !Access - Denied
 ----
-
 [![HitCount](http://hits.dwyl.com/Alex-Goaga/Access-Denied.svg)](http://hits.dwyl.com/Alex-Goaga/Access-Denied)
+
+<h1 align="center">
 <img src="https://img.shields.io/github/repo-size/Alex-Goaga/Access-Denied?label=Repo%20Size&color=orange" alt="repo size" >
+  <img src="https://tokei.rs/b1/github/Alex-Goaga/Access-Denied">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alex-Goaga/Access-Denied">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Alex-Goaga/Access-Denied">
+  <img src="https://img.shields.io/github/license/Alex-Goaga/Access-Denied">
+</h1>
 
 ----
 **Take Note!**

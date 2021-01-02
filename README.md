@@ -1,9 +1,7 @@
 ![Logo](https://github.com/Alex-Goaga/Access-Denied/blob/main/includes/logo.png)
 
-# Project !Access - Denied
+# Project !Access - Denied     [![HitCount](http://hits.dwyl.com/Alex-Goaga/Access-Denied.svg)](http://hits.dwyl.com/Alex-Goaga/Access-Denied)
 ----
-[![HitCount](http://hits.dwyl.com/Alex-Goaga/Access-Denied.svg)](http://hits.dwyl.com/Alex-Goaga/Access-Denied)
-
 <h1 align="center">
 <img src="https://img.shields.io/github/repo-size/Alex-Goaga/Access-Denied?label=Repo%20Size&color=orange" alt="repo size" >
   <img src="https://tokei.rs/b1/github/Alex-Goaga/Access-Denied">

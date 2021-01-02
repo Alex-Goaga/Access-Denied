@@ -1,16 +1,9 @@
 ![Logo](https://github.com/Alex-Goaga/Access-Denied/blob/main/includes/logo.png)
 
-# Project !Access - Denied     [![HitCount](http://hits.dwyl.com/Alex-Goaga/Access-Denied.svg)](http://hits.dwyl.com/Alex-Goaga/Access-Denied)
-
+# Project !Access - Denied
 ----
+[![HitCount](http://hits.dwyl.com/Alex-Goaga/Access-Denied.svg)](http://hits.dwyl.com/Alex-Goaga/Access-Denied) <img src="https://img.shields.io/github/repo-size/Alex-Goaga/Access-Denied?label=Repo%20Size&color=orange" alt="repo size" >  <img src="https://tokei.rs/b1/github/Alex-Goaga/Access-Denied">  [![Release](https://img.shields.io/github/release/maliceio/malice.svg)](https://github.com/Alex-Goaga/Access-Denied/releases/latest)   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alex-Goaga/Access-Denied">  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Alex-Goaga/Access-Denied">  <img src="https://img.shields.io/github/license/Alex-Goaga/Access-Denied">
 
-<div align="center">
-  <img src="https://img.shields.io/github/repo-size/Alex-Goaga/Access-Denied?label=Repo%20Size&color=orange" alt="repo size" >
-  <img src="https://tokei.rs/b1/github/Alex-Goaga/Access-Denied">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alex-Goaga/Access-Denied">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/Alex-Goaga/Access-Denied">
-  <img src="https://img.shields.io/github/license/Alex-Goaga/Access-Denied">
-</div>
 
 ----
 

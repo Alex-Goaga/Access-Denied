@@ -78,7 +78,7 @@ editor.
 *  Adding to many entries in the host file ( For example Windows C:\Windows\System32\drivers\etc\hosts ) in order to block intrusions you can end as a result, on startup, with an initial super-slow connection to the internet. I get the globe icon (no connection) for about 2 minutes on some tests in the Virtual Machine, then it works fine so WE DO RECOMMEND buying a separate machine for the computing DNS process such as a cheap Raspberry Pi 0 (zero) and setup the <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project 
 
 
-## Other
+## 📜 Other
 
 ### Helpful links
 * https://pi-hole.net - A great network-wide ad blocker project.
@@ -97,7 +97,7 @@ editor.
 - [ ] Reach 1,000,000-caught milestone
 
 
-## License
+## 📜 License
 
 This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -112,5 +112,5 @@ This program is free software: you can redistribute it and/or modify
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-### Disclaimer
+### 📜 Disclaimer
 This project is in no way affiliated with the core Pi-Hole project or organization neither with Synology Systems. This project was created as a contribution to the community. Use at your own risk.

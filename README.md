@@ -9,7 +9,7 @@
 * Yes, any user can contribute with his honey pot list. ( *With any exception of issues regarding changes to `Access-Denied/main/deny-ip-list.txt`, all other issues regarding the content of the produced hosts files should be made with the appropriate data source that contributed the content in question. The contact information for all of the data sources can be found in the `Contributors` sections.* )
 ----
 
-# Unified hosts file with base extensions
+# Unified hosts file additional informations:
 
 * Last updated: **January 02 2021**.
 * Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/deny-ip-list.txt) containing 0,007 entries.

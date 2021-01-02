@@ -35,3 +35,52 @@ This program is free software: you can redistribute it and/or modify
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+
+
+## What is a hosts file?
+
+A hosts file, named `hosts` (with no file extension), is a plain-text file
+used by all operating systems to map hostnames to IP addresses.
+
+In most operating systems, the `hosts` file is preferential to `DNS`.
+Therefore if a domain name is resolved by the `hosts` file, the request never
+leaves your computer.
+
+Having a smart `hosts` file goes a long way towards blocking malware, adware,
+and other irritants.
+
+For example, to nullify requests to some doubleclick.net servers, adding these
+lines to your hosts file will do it:
+
+```text
+# block doubleClick's servers
+0.0.0.0 ad.ae.doubleclick.net
+0.0.0.0 ad.ar.doubleclick.net
+# etc...
+```
+
+## We recommend using `0.0.0.0` instead of `127.0.0.1`
+
+Traditionally most host files use `127.0.0.1`, the *loopback address*, to establish an IP connection to the local machine.
+
+We prefer to use `0.0.0.0`, which is defined as a non-routable meta-address used to designate an invalid, unknown, or non-applicable target.
+
+Using `0.0.0.0` is empirically faster, possibly because there's no wait for a timeout resolution. It also does not
+interfere with a web server that may be running on the local PC.
+
+## Why not use `0` instead of `0.0.0.0`?
+
+We tried that.  Using `0` doesn't work universally.
+
+
+## Location of your hosts file
+
+To modify your current `hosts` file, look for it in the following places and modify it with a text
+editor.
+
+**macOS (until 10.14.x macOS Mojave), iOS, Android, Linux**: `/etc/hosts` file.
+
+**macOS Catalina:** `/private/etc/hosts` file.
+
+**Windows**: `%SystemRoot%\system32\drivers\etc\hosts` file.
+

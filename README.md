@@ -9,14 +9,14 @@
 
 ----
 
-**Take Note!**
+##  🏁 **Take Note!**
 * This is a work in progress and is being actively developed (for now).
 * This project gathers all banned IPs from different server logs and honey pots around the plain and compress them into one compatible file for any <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project or <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/synology-logo.png" alt="Pi-hole" height="24"/>  Synology DSM - Auto Block Feature
 * Versions the file, and tests, are updated every week 
 * Yes, any user can contribute with his honey pot list. ( *With any exception of issues regarding changes to `Access-Denied/main/deny-ip-list.txt`, all other issues regarding the content of the produced hosts files should be made with the appropriate data source that contributed the content in question. The contact information for all of the data sources can be found in the `Contributors` sections.* )
 ----
 
-# Unified hosts file additional informations:
+# 🖥️ Unified hosts file additional informations:
 
 * Last updated: **January 02 2021**.
 * Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/deny-ip-list.txt) containing 0,007 entries.
@@ -25,9 +25,9 @@
 
 ## Authors
 
-* **Alex-Goaga** - *Initial work* - (https://github.com/Alex-Goaga)
+* 🍻 **Alex-Goaga** - *Initial work* - (https://github.com/Alex-Goaga)
 
-## What is a hosts file?
+## 🔍 What is a hosts file?
 
 A hosts file, named `hosts` (with no file extension), is a plain-text file
 used by all operating systems to map hostnames to IP addresses.
@@ -49,7 +49,7 @@ lines to your hosts file will do it:
 # etc...
 ```
 
-## We recommend using `0.0.0.0` instead of `127.0.0.1`
+## 🛡️ We recommend using `0.0.0.0` instead of `127.0.0.1`
 
 Traditionally most host files use `127.0.0.1`, the *loopback address*, to establish an IP connection to the local machine.
 
@@ -58,12 +58,12 @@ We prefer to use `0.0.0.0`, which is defined as a non-routable meta-address used
 Using `0.0.0.0` is empirically faster, possibly because there's no wait for a timeout resolution. It also does not
 interfere with a web server that may be running on the local PC.
 
-## Why not use `0` instead of `0.0.0.0`?
+## 🛡️ Why not use `0` instead of `0.0.0.0`?
 
 We tried that.  Using `0` doesn't work universally.
 
 
-## Location of your hosts file
+## 🔍 Location of your hosts file
 
 To modify your current `hosts` file, look for it in the following places and modify it with a text
 editor.
@@ -74,8 +74,7 @@ editor.
 
 **Windows**: `%SystemRoot%\system32\drivers\etc\hosts` file.
 
-## Please note that :
-
+## 🐌 Limitations :
 *  Adding to many entries in the host file ( For example Windows C:\Windows\System32\drivers\etc\hosts ) in order to block intrusions you can end as a result, on startup, with an initial super-slow connection to the internet. I get the globe icon (no connection) for about 2 minutes on some tests in the Virtual Machine, then it works fine so WE DO RECOMMEND buying a separate machine for the computing DNS process such as a cheap Raspberry Pi 0 (zero) and setup the <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project 
 
 
@@ -84,7 +83,7 @@ editor.
 ### Helpful links
 * https://pi-hole.net - A great network-wide ad blocker project.
 
-### TODO
+### 🏔️ TODO
 - [X] Setup multiple machines around the network
 - [X] Give the machines juicy names 
 - [X] Open and redirect ports to public network

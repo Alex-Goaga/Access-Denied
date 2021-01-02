@@ -11,7 +11,7 @@
 
 **Take Note!**
 
-* This project gathers all banned IPs from different server logs and honey pots around the plain and compress them into one compatible file for any <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project or Synology Auto Block Feature
+* This project gathers all banned IPs from different server logs and honey pots around the plain and compress them into one compatible file for any <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/pihole-logo.png" alt="Pi-hole" height="24"/> PiHole Project or <img src="https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/includes/synology-logo.png" alt="Pi-hole" height="24"/>  Synology DSM - Auto Block Feature
 * Versions the file, and tests, are updated every week 
 * Yes, any user can contribute with his honey pot list. ( *With any exception of issues regarding changes to `Access-Denied/main/deny-ip-list.txt`, all other issues regarding the content of the produced hosts files should be made with the appropriate data source that contributed the content in question. The contact information for all of the data sources can be found in the `Contributors` sections.* )
 ----

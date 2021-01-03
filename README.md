@@ -18,8 +18,8 @@
 
 # 📰 Unified hosts file additional informations:
 
-* Last updated: **January 02 2021**.
-* Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/deny-ip-list.txt) containing 0,007 entries.
+* Last updated: **January 03 2021**.
+* Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/deny-ip-list.txt) containing 0,724 entries.
 
 **Expectation**: This host file should serve all devices, regardless of OS ( *with a little thinkering from the end-user* ).
 

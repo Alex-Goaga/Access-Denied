@@ -18,8 +18,8 @@
 
 # 📰 Unified hosts file additional informations:
 
-* Last updated: **January 03 2021**.
-* Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/deny-ip-list.txt) containing 0,724 entries.
+* Last updated: **January 05 2021**.
+* Here's the [raw hosts file with base extensions](https://raw.githubusercontent.com/Alex-Goaga/Access-Denied/main/deny-ip-list.txt) containing 28,528 entries.
 
 **Expectation**: This host file should serve all devices, regardless of OS ( *with a little thinkering from the end-user* ).
 
@@ -92,7 +92,7 @@ editor.
 - [ ] Add installation script for automated install to PiHole
 - [ ] Possibly generizie script to accept any list
 - [ ] Add instructions to host the list on the pi-host itself
-- [ ] Reach 10,000-caught milestone
+- [X] Reach 10,000-caught milestone
 - [ ] Reach 100,000-caught milestone
 - [ ] Reach 1,000,000-caught milestone
 
